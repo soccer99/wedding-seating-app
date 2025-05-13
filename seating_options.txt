@@ -1,0 +1,360 @@
+Table 1
+Kari Crane, Marcia Flynn, Gordon Dirksen, Matt Flynn, Kelly Flynn, Lyla Flynn, Luke Flynn, Jack Flynn
+Table 2
+Gideon Courville, Haven Courville, Jakob Gash, Mary Beth Mercer, Judith Pfeffinger, Michael Mercer, Michelle Mercer, Scott Mercer
+Table 3
+Jacob, Peter Callozzo's guest, Jack, Jonathan Endres's guest, Trevor Endres's guest, Mia Rousonelos's guest, Chaney Tambling's guest, Colton Tambling's guest
+Table 4
+Courtney Dufford's guest, Emily Dufford's guest, Phil Floetotto's guest, Bernhard Haux's guest, Maria Heath's guest, Jessica Podemski's guest, Katherine Rousonelos's guest, Craig Silverstein's guest
+Table 5
+Courtney Dufford, Doug Dufford, Laura Dufford, Emily Dufford, Diane Heath, Maria Heath, Kristin Oakley, Jessica Podemski
+Table 6
+Frank Callozzo, Greg Callozzo, Susan Callozzo, Peter Callozzo, Veronica Callozzo, Brady Endres, Rob Endres, Laura Endres
+Table 7
+Gus Rousonelos, Georgia Rousonelos, Andrew Rousonelos, Katherine Rousonelos, Mia Rousonelos, Scott VerHagen, Amy Sierocki, Tami ZumMallen
+Table 8
+Alan Baker, Michelle Baker, Abby Bokun, Rob Kelsey, Nia Lee, Teaghan Owens, Dominika Smetek, John Cahoon
+Table 9
+Ryan Domier, Leanna Dindal, Sydney Kosgard, Zac Cantin, Meghan Malone, Mike Carreon, Cameron Rockwell, Will Suhrbur
+Table 10
+Nzinga Barberousse, Benjamin Dong, Ben Doty, Aryanna Doty, Chaney Tambling, Colton Tambling, Shari Tambling, Mike Tambling
+Table 11
+Marissa Ruvalcaba, Abbey Endres, Jonathan Endres, Joy Endres, Mike Endres, Terry Endres, Missy Endres, Trevor Endres
+Table 12
+Carissa Armstrong, James Armstrong, Charlie, Abby Bokun's guest, Tom Caprel, Tom Caprel's guest, Ty Perez, Ty Perez's guest
+Table 13
+Matt Andresen, Phil Floetotto, Bernhard Haux, Kevin Heyer, Clay Janicke, Alexa Goldberg, Brad Poglitsch, Craig Silverstein
+Table 14
+Ana Batista, Adam Erickson, Armando Batista, Lily Baer, Jackie Batista, Marcel Batista, Mina Batista, Jerry Crane
+Table 15
+Scott Bokun, Michele Bokun, Bryan Burger, Chiho Ikegami, Kevin Goolsby, Lauren Foxwell, Alex Otto, Caesar Ceralde
+Table 16
+Caitlin Armson, Sean Armson, JB Ballard, Samantha Leber, Warren Paeff, Colleen Paeff, Logan Salvadore, Morgan Patterson
+Table 17
+Dale Heath, , , , , , , 
+-143.52
+
+Table 1
+Courtney Dufford's guest, Emily Dufford's guest, Phil Floetotto's guest, Bernhard Haux's guest, Maria Heath's guest, Ty Perez's guest, Jessica Podemski's guest, Craig Silverstein's guest
+Table 2
+Jerry Crane, Kari Crane, Diane Heath, Dale Heath, Warren Paeff, Colleen Paeff, Logan Salvadore, Morgan Patterson
+Table 3
+Alan Baker, Michelle Baker, Charlie, Tom Caprel, Tom Caprel's guest, Rob Kelsey, Sydney Kosgard, Zac Cantin
+Table 4
+Gideon Courville, Haven Courville, Jakob Gash, Mary Beth Mercer, Judith Pfeffinger, Michael Mercer, Michelle Mercer, Scott Mercer
+Table 5
+Abby Bokun, Ryan Domier, Leanna Dindal, Nia Lee, Meghan Malone, Mike Carreon, Dominika Smetek, John Cahoon
+Table 6
+Carissa Armstrong, Courtney Dufford, Doug Dufford, Laura Dufford, Emily Dufford, Maria Heath, Kristin Oakley, Jessica Podemski
+Table 7
+Marissa Ruvalcaba, Marcia Flynn, Gordon Dirksen, Matt Flynn, Kelly Flynn, Lyla Flynn, Luke Flynn, Jack Flynn
+Table 8
+James Armstrong, Ana Batista, Adam Erickson, Armando Batista, Lily Baer, Jackie Batista, Marcel Batista, Mina Batista
+Table 9
+Nzinga Barberousse, Benjamin Dong, Ben Doty, Aryanna Doty, Lauren Foxwell, Ty Perez, Scott VerHagen, Amy Sierocki
+Table 10
+Kevin Goolsby, Kevin Heyer, Clay Janicke, Alexa Goldberg, Alex Otto, Caesar Ceralde, Brad Poglitsch, Cameron Rockwell
+Table 11
+Jacob, Abby Bokun's guest, Peter Callozzo's guest, Jack, Jonathan Endres's guest, Katherine Rousonelos's guest, Mia Rousonelos's guest, Colton Tambling's guest
+Table 12
+Abbey Endres, Jonathan Endres, Joy Endres, Mike Endres, Terry Endres, Missy Endres, Trevor Endres, Trevor Endres's guest
+Table 13
+Scott Bokun, Michele Bokun, Gus Rousonelos, Georgia Rousonelos, Andrew Rousonelos, Katherine Rousonelos, Mia Rousonelos, Tami ZumMallen
+Table 14
+Matt Andresen, Caitlin Armson, Sean Armson, Bryan Burger, Chiho Ikegami, Phil Floetotto, Bernhard Haux, Craig Silverstein
+Table 15
+JB Ballard, Samantha Leber, Teaghan Owens, Chaney Tambling, Chaney Tambling's guest, Colton Tambling, Shari Tambling, Mike Tambling
+Table 16
+Frank Callozzo, Greg Callozzo, Susan Callozzo, Peter Callozzo, Veronica Callozzo, Brady Endres, Rob Endres, Laura Endres
+Table 17
+Will Suhrbur, , , , , , , 
+-143.24
+
+Table 1
+Abby Bokun's guest, Courtney Dufford's guest, Emily Dufford's guest, Phil Floetotto's guest, Bernhard Haux's guest, Maria Heath's guest, Jessica Podemski's guest, Katherine Rousonelos's guest
+Table 2
+Caitlin Armson, Sean Armson, JB Ballard, Samantha Leber, Ryan Domier, Leanna Dindal, Meghan Malone, Mike Carreon
+Table 3
+Ana Batista, Adam Erickson, Armando Batista, Lily Baer, Jackie Batista, Marcel Batista, Mina Batista, Jakob Gash
+Table 4
+Abby Bokun, Scott Bokun, Michele Bokun, Ben Doty, Aryanna Doty, Rob Kelsey, Dominika Smetek, John Cahoon
+Table 5
+Gideon Courville, Haven Courville, Gus Rousonelos, Georgia Rousonelos, Andrew Rousonelos, Katherine Rousonelos, Mia Rousonelos, Tami ZumMallen
+Table 6
+Marissa Ruvalcaba, Abbey Endres, Jonathan Endres, Joy Endres, Mike Endres, Terry Endres, Missy Endres, Trevor Endres
+Table 7
+Phil Floetotto, Kevin Goolsby, Lauren Foxwell, Bernhard Haux, Kevin Heyer, Clay Janicke, Alexa Goldberg, Brad Poglitsch
+Table 8
+Alan Baker, Sydney Kosgard, Zac Cantin, Alex Otto, Caesar Ceralde, Teaghan Owens, Logan Salvadore, Morgan Patterson
+Table 9
+Michelle Baker, Charlie, Tom Caprel, Tom Caprel's guest, Ty Perez, Ty Perez's guest, Craig Silverstein, Craig Silverstein's guest
+Table 10
+Matt Andresen, James Armstrong, Nzinga Barberousse, Benjamin Dong, Bryan Burger, Chiho Ikegami, Cameron Rockwell, Will Suhrbur
+Table 11
+Carissa Armstrong, Courtney Dufford, Doug Dufford, Laura Dufford, Emily Dufford, Maria Heath, Kristin Oakley, Jessica Podemski
+Table 12
+Jacob, Peter Callozzo's guest, Jack, Jonathan Endres's guest, Trevor Endres's guest, Mia Rousonelos's guest, Chaney Tambling's guest, Colton Tambling's guest
+Table 13
+Marcia Flynn, Gordon Dirksen, Matt Flynn, Kelly Flynn, Lyla Flynn, Luke Flynn, Jack Flynn, Judith Pfeffinger
+Table 14
+Mary Beth Mercer, Michael Mercer, Michelle Mercer, Scott Mercer, Chaney Tambling, Colton Tambling, Shari Tambling, Mike Tambling
+Table 15
+Jerry Crane, Kari Crane, Diane Heath, Dale Heath, Warren Paeff, Colleen Paeff, Scott VerHagen, Amy Sierocki
+Table 16
+Frank Callozzo, Greg Callozzo, Susan Callozzo, Peter Callozzo, Veronica Callozzo, Brady Endres, Rob Endres, Laura Endres
+Table 17
+Nia Lee, , , , , , , 
+-143.2
+
+Table 1
+Abby Bokun's guest, Courtney Dufford's guest, Emily Dufford's guest, Phil Floetotto's guest, Bernhard Haux's guest, Maria Heath's guest, Jessica Podemski's guest, Craig Silverstein's guest
+Table 2
+Jerry Crane, Kari Crane, Diane Heath, Dale Heath, Warren Paeff, Colleen Paeff, Logan Salvadore, Morgan Patterson
+Table 3
+Alan Baker, Michelle Baker, Charlie, Tom Caprel, Tom Caprel's guest, Rob Kelsey, Sydney Kosgard, Zac Cantin
+Table 4
+Gideon Courville, Haven Courville, Jakob Gash, Mary Beth Mercer, Judith Pfeffinger, Michael Mercer, Michelle Mercer, Scott Mercer
+Table 5
+Abby Bokun, Ryan Domier, Leanna Dindal, Nia Lee, Meghan Malone, Mike Carreon, Dominika Smetek, John Cahoon
+Table 6
+Carissa Armstrong, Courtney Dufford, Doug Dufford, Laura Dufford, Emily Dufford, Maria Heath, Kristin Oakley, Jessica Podemski
+Table 7
+Marissa Ruvalcaba, Marcia Flynn, Gordon Dirksen, Matt Flynn, Kelly Flynn, Lyla Flynn, Luke Flynn, Jack Flynn
+Table 8
+Ana Batista, Adam Erickson, Armando Batista, Lily Baer, Jackie Batista, Marcel Batista, Mina Batista, Ty Perez
+Table 9
+Nzinga Barberousse, Benjamin Dong, Ben Doty, Aryanna Doty, Lauren Foxwell, Cameron Rockwell, Scott VerHagen, Amy Sierocki
+Table 10
+Kevin Goolsby, Kevin Heyer, Clay Janicke, Alexa Goldberg, Alex Otto, Caesar Ceralde, Brad Poglitsch, Will Suhrbur
+Table 11
+Jacob, Peter Callozzo's guest, Jack, Jonathan Endres's guest, Ty Perez's guest, Katherine Rousonelos's guest, Mia Rousonelos's guest, Colton Tambling's guest
+Table 12
+Abbey Endres, Jonathan Endres, Joy Endres, Mike Endres, Terry Endres, Missy Endres, Trevor Endres, Trevor Endres's guest
+Table 13
+Scott Bokun, Michele Bokun, Gus Rousonelos, Georgia Rousonelos, Andrew Rousonelos, Katherine Rousonelos, Mia Rousonelos, Tami ZumMallen
+Table 14
+Matt Andresen, Caitlin Armson, Sean Armson, Bryan Burger, Chiho Ikegami, Phil Floetotto, Bernhard Haux, Craig Silverstein
+Table 15
+JB Ballard, Samantha Leber, Teaghan Owens, Chaney Tambling, Chaney Tambling's guest, Colton Tambling, Shari Tambling, Mike Tambling
+Table 16
+Frank Callozzo, Greg Callozzo, Susan Callozzo, Peter Callozzo, Veronica Callozzo, Brady Endres, Rob Endres, Laura Endres
+Table 17
+James Armstrong, , , , , , , 
+-143.14000000000001
+
+Table 1
+Kari Crane, Marcia Flynn, Gordon Dirksen, Matt Flynn, Kelly Flynn, Lyla Flynn, Luke Flynn, Jack Flynn
+Table 2
+Gideon Courville, Haven Courville, Jakob Gash, Mary Beth Mercer, Judith Pfeffinger, Michael Mercer, Michelle Mercer, Scott Mercer
+Table 3
+Jacob, Peter Callozzo's guest, Jack, Jonathan Endres's guest, Trevor Endres's guest, Mia Rousonelos's guest, Chaney Tambling's guest, Colton Tambling's guest
+Table 4
+Abby Bokun's guest, Courtney Dufford's guest, Emily Dufford's guest, Phil Floetotto's guest, Bernhard Haux's guest, Jessica Podemski's guest, Katherine Rousonelos's guest, Craig Silverstein's guest
+Table 5
+Courtney Dufford, Doug Dufford, Laura Dufford, Emily Dufford, Diane Heath, Maria Heath, Kristin Oakley, Jessica Podemski
+Table 6
+Frank Callozzo, Greg Callozzo, Susan Callozzo, Peter Callozzo, Veronica Callozzo, Brady Endres, Rob Endres, Laura Endres
+Table 7
+Gus Rousonelos, Georgia Rousonelos, Andrew Rousonelos, Katherine Rousonelos, Mia Rousonelos, Scott VerHagen, Amy Sierocki, Tami ZumMallen
+Table 8
+Alan Baker, Michelle Baker, Abby Bokun, Rob Kelsey, Nia Lee, Teaghan Owens, Dominika Smetek, John Cahoon
+Table 9
+Ryan Domier, Leanna Dindal, Sydney Kosgard, Zac Cantin, Meghan Malone, Mike Carreon, Cameron Rockwell, Will Suhrbur
+Table 10
+Nzinga Barberousse, Benjamin Dong, Ben Doty, Aryanna Doty, Chaney Tambling, Colton Tambling, Shari Tambling, Mike Tambling
+Table 11
+Marissa Ruvalcaba, Abbey Endres, Jonathan Endres, Joy Endres, Mike Endres, Terry Endres, Missy Endres, Trevor Endres
+Table 12
+Carissa Armstrong, James Armstrong, Charlie, Tom Caprel, Tom Caprel's guest, Maria Heath's guest, Ty Perez, Ty Perez's guest
+Table 13
+Matt Andresen, Phil Floetotto, Bernhard Haux, Kevin Heyer, Clay Janicke, Alexa Goldberg, Brad Poglitsch, Craig Silverstein
+Table 14
+Ana Batista, Adam Erickson, Armando Batista, Lily Baer, Jackie Batista, Marcel Batista, Mina Batista, Jerry Crane
+Table 15
+Scott Bokun, Michele Bokun, Bryan Burger, Chiho Ikegami, Kevin Goolsby, Lauren Foxwell, Alex Otto, Caesar Ceralde
+Table 16
+Caitlin Armson, Sean Armson, JB Ballard, Samantha Leber, Warren Paeff, Colleen Paeff, Logan Salvadore, Morgan Patterson
+Table 17
+Dale Heath, , , , , , , 
+-143.02
+
+Table 1
+Marcia Flynn, Gordon Dirksen, Matt Flynn, Kelly Flynn, Lyla Flynn, Luke Flynn, Jack Flynn, Dale Heath
+Table 2
+Gideon Courville, Haven Courville, Jakob Gash, Mary Beth Mercer, Judith Pfeffinger, Michael Mercer, Michelle Mercer, Scott Mercer
+Table 3
+Jacob, Peter Callozzo's guest, Jack, Jonathan Endres's guest, Trevor Endres's guest, Katherine Rousonelos's guest, Mia Rousonelos's guest, Colton Tambling's guest
+Table 4
+Abby Bokun's guest, Courtney Dufford's guest, Emily Dufford's guest, Phil Floetotto's guest, Bernhard Haux's guest, Jessica Podemski's guest, Craig Silverstein's guest, Chaney Tambling's guest
+Table 5
+Courtney Dufford, Doug Dufford, Laura Dufford, Emily Dufford, Diane Heath, Maria Heath, Kristin Oakley, Jessica Podemski
+Table 6
+Frank Callozzo, Greg Callozzo, Susan Callozzo, Peter Callozzo, Veronica Callozzo, Brady Endres, Rob Endres, Laura Endres
+Table 7
+Gus Rousonelos, Georgia Rousonelos, Andrew Rousonelos, Katherine Rousonelos, Mia Rousonelos, Scott VerHagen, Amy Sierocki, Tami ZumMallen
+Table 8
+Alan Baker, Michelle Baker, Abby Bokun, Rob Kelsey, Nia Lee, Teaghan Owens, Dominika Smetek, John Cahoon
+Table 9
+Ryan Domier, Leanna Dindal, Sydney Kosgard, Zac Cantin, Meghan Malone, Mike Carreon, Cameron Rockwell, Will Suhrbur
+Table 10
+Nzinga Barberousse, Benjamin Dong, Ben Doty, Aryanna Doty, Chaney Tambling, Colton Tambling, Shari Tambling, Mike Tambling
+Table 11
+Marissa Ruvalcaba, Abbey Endres, Jonathan Endres, Joy Endres, Mike Endres, Terry Endres, Missy Endres, Trevor Endres
+Table 12
+Carissa Armstrong, James Armstrong, Charlie, Tom Caprel, Tom Caprel's guest, Maria Heath's guest, Ty Perez, Ty Perez's guest
+Table 13
+Matt Andresen, Phil Floetotto, Bernhard Haux, Kevin Heyer, Clay Janicke, Alexa Goldberg, Brad Poglitsch, Craig Silverstein
+Table 14
+Ana Batista, Adam Erickson, Armando Batista, Lily Baer, Jackie Batista, Marcel Batista, Mina Batista, Jerry Crane
+Table 15
+Scott Bokun, Michele Bokun, Bryan Burger, Chiho Ikegami, Kevin Goolsby, Lauren Foxwell, Alex Otto, Caesar Ceralde
+Table 16
+Caitlin Armson, Sean Armson, JB Ballard, Samantha Leber, Warren Paeff, Colleen Paeff, Logan Salvadore, Morgan Patterson
+Table 17
+Kari Crane, , , , , , , 
+-142.92000000000002
+
+Table 1
+Abby Bokun's guest, Courtney Dufford's guest, Emily Dufford's guest, Phil Floetotto's guest, Bernhard Haux's guest, Maria Heath's guest, Jessica Podemski's guest, Katherine Rousonelos's guest
+Table 2
+Caitlin Armson, Sean Armson, JB Ballard, Samantha Leber, Ryan Domier, Leanna Dindal, Meghan Malone, Mike Carreon
+Table 3
+Ana Batista, Adam Erickson, Armando Batista, Lily Baer, Jackie Batista, Marcel Batista, Mina Batista, Jakob Gash
+Table 4
+Abby Bokun, Scott Bokun, Michele Bokun, Ben Doty, Aryanna Doty, Nia Lee, Dominika Smetek, John Cahoon
+Table 5
+Gideon Courville, Haven Courville, Gus Rousonelos, Georgia Rousonelos, Andrew Rousonelos, Katherine Rousonelos, Mia Rousonelos, Tami ZumMallen
+Table 6
+Marissa Ruvalcaba, Abbey Endres, Jonathan Endres, Joy Endres, Mike Endres, Terry Endres, Missy Endres, Trevor Endres
+Table 7
+Phil Floetotto, Kevin Goolsby, Lauren Foxwell, Bernhard Haux, Kevin Heyer, Clay Janicke, Alexa Goldberg, Brad Poglitsch
+Table 8
+Alan Baker, Sydney Kosgard, Zac Cantin, Alex Otto, Caesar Ceralde, Teaghan Owens, Logan Salvadore, Morgan Patterson
+Table 9
+Michelle Baker, Charlie, Tom Caprel, Tom Caprel's guest, Ty Perez, Ty Perez's guest, Craig Silverstein, Craig Silverstein's guest
+Table 10
+Matt Andresen, James Armstrong, Nzinga Barberousse, Benjamin Dong, Bryan Burger, Chiho Ikegami, Cameron Rockwell, Will Suhrbur
+Table 11
+Carissa Armstrong, Courtney Dufford, Doug Dufford, Laura Dufford, Emily Dufford, Maria Heath, Kristin Oakley, Jessica Podemski
+Table 12
+Jacob, Peter Callozzo's guest, Jack, Jonathan Endres's guest, Trevor Endres's guest, Mia Rousonelos's guest, Chaney Tambling's guest, Colton Tambling's guest
+Table 13
+Marcia Flynn, Gordon Dirksen, Matt Flynn, Kelly Flynn, Lyla Flynn, Luke Flynn, Jack Flynn, Judith Pfeffinger
+Table 14
+Mary Beth Mercer, Michael Mercer, Michelle Mercer, Scott Mercer, Chaney Tambling, Colton Tambling, Shari Tambling, Mike Tambling
+Table 15
+Jerry Crane, Kari Crane, Diane Heath, Dale Heath, Warren Paeff, Colleen Paeff, Scott VerHagen, Amy Sierocki
+Table 16
+Frank Callozzo, Greg Callozzo, Susan Callozzo, Peter Callozzo, Veronica Callozzo, Brady Endres, Rob Endres, Laura Endres
+Table 17
+Rob Kelsey, , , , , , , 
+-142.8
+
+Table 1
+Abby Bokun's guest, Courtney Dufford's guest, Emily Dufford's guest, Phil Floetotto's guest, Bernhard Haux's guest, Maria Heath's guest, Jessica Podemski's guest, Craig Silverstein's guest
+Table 2
+Jerry Crane, Kari Crane, Diane Heath, Dale Heath, Warren Paeff, Colleen Paeff, Logan Salvadore, Morgan Patterson
+Table 3
+James Armstrong, Alan Baker, Michelle Baker, Charlie, Tom Caprel, Tom Caprel's guest, Sydney Kosgard, Zac Cantin
+Table 4
+Gideon Courville, Haven Courville, Jakob Gash, Mary Beth Mercer, Judith Pfeffinger, Michael Mercer, Michelle Mercer, Scott Mercer
+Table 5
+Abby Bokun, Ryan Domier, Leanna Dindal, Nia Lee, Meghan Malone, Mike Carreon, Dominika Smetek, John Cahoon
+Table 6
+Carissa Armstrong, Courtney Dufford, Doug Dufford, Laura Dufford, Emily Dufford, Maria Heath, Kristin Oakley, Jessica Podemski
+Table 7
+Marissa Ruvalcaba, Marcia Flynn, Gordon Dirksen, Matt Flynn, Kelly Flynn, Lyla Flynn, Luke Flynn, Jack Flynn
+Table 8
+Ana Batista, Adam Erickson, Armando Batista, Lily Baer, Jackie Batista, Marcel Batista, Mina Batista, Ty Perez
+Table 9
+Nzinga Barberousse, Benjamin Dong, Ben Doty, Aryanna Doty, Lauren Foxwell, Rob Kelsey, Scott VerHagen, Amy Sierocki
+Table 10
+Kevin Goolsby, Kevin Heyer, Clay Janicke, Alexa Goldberg, Alex Otto, Caesar Ceralde, Brad Poglitsch, Will Suhrbur
+Table 11
+Jacob, Peter Callozzo's guest, Jack, Jonathan Endres's guest, Ty Perez's guest, Katherine Rousonelos's guest, Mia Rousonelos's guest, Colton Tambling's guest
+Table 12
+Abbey Endres, Jonathan Endres, Joy Endres, Mike Endres, Terry Endres, Missy Endres, Trevor Endres, Trevor Endres's guest
+Table 13
+Scott Bokun, Michele Bokun, Gus Rousonelos, Georgia Rousonelos, Andrew Rousonelos, Katherine Rousonelos, Mia Rousonelos, Tami ZumMallen
+Table 14
+Matt Andresen, Caitlin Armson, Sean Armson, Bryan Burger, Chiho Ikegami, Phil Floetotto, Bernhard Haux, Craig Silverstein
+Table 15
+JB Ballard, Samantha Leber, Teaghan Owens, Chaney Tambling, Chaney Tambling's guest, Colton Tambling, Shari Tambling, Mike Tambling
+Table 16
+Frank Callozzo, Greg Callozzo, Susan Callozzo, Peter Callozzo, Veronica Callozzo, Brady Endres, Rob Endres, Laura Endres
+Table 17
+Cameron Rockwell, , , , , , , 
+-142.74
+
+Table 1
+Abby Bokun's guest, Courtney Dufford's guest, Emily Dufford's guest, Phil Floetotto's guest, Bernhard Haux's guest, Maria Heath's guest, Jessica Podemski's guest, Katherine Rousonelos's guest
+Table 2
+Caitlin Armson, Sean Armson, JB Ballard, Samantha Leber, Ryan Domier, Leanna Dindal, Meghan Malone, Mike Carreon
+Table 3
+Ana Batista, Adam Erickson, Armando Batista, Lily Baer, Jackie Batista, Marcel Batista, Mina Batista, Jakob Gash
+Table 4
+Abby Bokun, Scott Bokun, Michele Bokun, Ben Doty, Aryanna Doty, Nia Lee, Dominika Smetek, John Cahoon
+Table 5
+Gideon Courville, Haven Courville, Gus Rousonelos, Georgia Rousonelos, Andrew Rousonelos, Katherine Rousonelos, Mia Rousonelos, Tami ZumMallen
+Table 6
+Marissa Ruvalcaba, Abbey Endres, Jonathan Endres, Joy Endres, Mike Endres, Terry Endres, Missy Endres, Trevor Endres
+Table 7
+Phil Floetotto, Kevin Goolsby, Lauren Foxwell, Bernhard Haux, Kevin Heyer, Clay Janicke, Alexa Goldberg, Brad Poglitsch
+Table 8
+Alan Baker, Sydney Kosgard, Zac Cantin, Alex Otto, Caesar Ceralde, Teaghan Owens, Logan Salvadore, Morgan Patterson
+Table 9
+Michelle Baker, Charlie, Tom Caprel, Tom Caprel's guest, Ty Perez, Ty Perez's guest, Craig Silverstein, Craig Silverstein's guest
+Table 10
+Matt Andresen, Nzinga Barberousse, Benjamin Dong, Bryan Burger, Chiho Ikegami, Rob Kelsey, Cameron Rockwell, Will Suhrbur
+Table 11
+Carissa Armstrong, Courtney Dufford, Doug Dufford, Laura Dufford, Emily Dufford, Maria Heath, Kristin Oakley, Jessica Podemski
+Table 12
+Jacob, Peter Callozzo's guest, Jack, Jonathan Endres's guest, Trevor Endres's guest, Mia Rousonelos's guest, Chaney Tambling's guest, Colton Tambling's guest
+Table 13
+James Armstrong, Marcia Flynn, Gordon Dirksen, Matt Flynn, Kelly Flynn, Lyla Flynn, Luke Flynn, Jack Flynn
+Table 14
+Mary Beth Mercer, Michael Mercer, Michelle Mercer, Scott Mercer, Chaney Tambling, Colton Tambling, Shari Tambling, Mike Tambling
+Table 15
+Jerry Crane, Kari Crane, Diane Heath, Dale Heath, Warren Paeff, Colleen Paeff, Scott VerHagen, Amy Sierocki
+Table 16
+Frank Callozzo, Greg Callozzo, Susan Callozzo, Peter Callozzo, Veronica Callozzo, Brady Endres, Rob Endres, Laura Endres
+Table 17
+Judith Pfeffinger, , , , , , , 
+-142.7
+
+Table 1
+Abby Bokun's guest, Courtney Dufford's guest, Emily Dufford's guest, Phil Floetotto's guest, Bernhard Haux's guest, Maria Heath's guest, Jessica Podemski's guest, Craig Silverstein's guest
+Table 2
+Jerry Crane, Kari Crane, Diane Heath, Dale Heath, Warren Paeff, Colleen Paeff, Logan Salvadore, Morgan Patterson
+Table 3
+James Armstrong, Alan Baker, Michelle Baker, Charlie, Tom Caprel, Tom Caprel's guest, Sydney Kosgard, Zac Cantin
+Table 4
+Gideon Courville, Haven Courville, Jakob Gash, Mary Beth Mercer, Judith Pfeffinger, Michael Mercer, Michelle Mercer, Scott Mercer
+Table 5
+Abby Bokun, Ryan Domier, Leanna Dindal, Nia Lee, Meghan Malone, Mike Carreon, Dominika Smetek, John Cahoon
+Table 6
+Carissa Armstrong, Courtney Dufford, Doug Dufford, Laura Dufford, Emily Dufford, Maria Heath, Kristin Oakley, Jessica Podemski
+Table 7
+Marcia Flynn, Gordon Dirksen, Matt Flynn, Kelly Flynn, Lyla Flynn, Luke Flynn, Jack Flynn, Cameron Rockwell
+Table 8
+Ana Batista, Adam Erickson, Armando Batista, Lily Baer, Jackie Batista, Marcel Batista, Mina Batista, Ty Perez
+Table 9
+Nzinga Barberousse, Benjamin Dong, Ben Doty, Aryanna Doty, Lauren Foxwell, Rob Kelsey, Scott VerHagen, Amy Sierocki
+Table 10
+Kevin Goolsby, Kevin Heyer, Clay Janicke, Alexa Goldberg, Alex Otto, Caesar Ceralde, Brad Poglitsch, Will Suhrbur
+Table 11
+Jacob, Peter Callozzo's guest, Jack, Jonathan Endres's guest, Ty Perez's guest, Katherine Rousonelos's guest, Mia Rousonelos's guest, Colton Tambling's guest
+Table 12
+Abbey Endres, Jonathan Endres, Joy Endres, Mike Endres, Terry Endres, Missy Endres, Trevor Endres, Trevor Endres's guest
+Table 13
+Scott Bokun, Michele Bokun, Gus Rousonelos, Georgia Rousonelos, Andrew Rousonelos, Katherine Rousonelos, Mia Rousonelos, Tami ZumMallen
+Table 14
+Matt Andresen, Caitlin Armson, Sean Armson, Bryan Burger, Chiho Ikegami, Phil Floetotto, Bernhard Haux, Craig Silverstein
+Table 15
+JB Ballard, Samantha Leber, Teaghan Owens, Chaney Tambling, Chaney Tambling's guest, Colton Tambling, Shari Tambling, Mike Tambling
+Table 16
+Frank Callozzo, Greg Callozzo, Susan Callozzo, Peter Callozzo, Veronica Callozzo, Brady Endres, Rob Endres, Laura Endres
+Table 17
+Marissa Ruvalcaba, , , , , , , 
+-142.66000000000003
+
